@@ -16,5 +16,8 @@
 ### Frontend
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend Skills" />
 
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,arch,vscodium,git,github,npm" alt="Tools" />
 
 
