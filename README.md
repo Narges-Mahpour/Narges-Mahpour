@@ -15,12 +15,20 @@
 
 ## 🛠️ My Skills
 
-### Frontend
+### 🎨 Frontend
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend Skills" />
 
-### Tools
+### 🧰 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=linux,arch,vscodium,git,github,npm" alt="Tools" />
+
+### 🌱 Currently Learning
+
+![Python](https://skillicons.dev/icons?i=python)
+
+### 🎮 Languages for Fun
+
+![C++](https://skillicons.dev/icons?i=cpp)
 
 
 <picture>
